@@ -1,7 +1,7 @@
 import 'package:example/example_tp/example.dart';
 import 'package:test/test.dart';
 
-void main() {
+main() {
   test('example', () {
     expect(sayHello(), "Bonjour");
   });
